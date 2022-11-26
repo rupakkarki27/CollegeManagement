@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CollegeManagement">
+    <output-path>$PROJECT_DIR$/out/artifacts/CollegeManagement</output-path>
+    <root id="archive" name="CollegeManagement.jar" />
+  </artifact>
+</component>
